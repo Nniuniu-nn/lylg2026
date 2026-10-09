@@ -4,3 +4,4 @@ git_learning
 -------
 1. 新增功能1
 2. 新增功能2
+   修复错误readme.md
